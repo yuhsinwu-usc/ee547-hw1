@@ -1,8 +1,10 @@
 # EE 547 Homework 1
 Author: Yu-Hsin Wu
+
 Student ID: 3434391900
 
 ## Contents
+
 README.md
 q1/
 ├── merge_worker.py
@@ -13,3 +15,4 @@ q2/
 q3/
 ├── event_logger.py
 └── README.md
+
